@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 https://www.webfx.com/tools/emoji-cheat-sheet/
 https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+
+
+Hi! I'm Stanley Goodwin.
+I'm a Physics student at Rochester Institute of Technology with a focus in Computational & Theoretical Physics.
+I work with physical simulations and lower-level programming like C/C++, as well as study mathematics in my free time.
+I'm also exceptionally quick to learn new things, as well as to adapt to new environments and methodologies.
