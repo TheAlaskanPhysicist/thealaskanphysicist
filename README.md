@@ -1,11 +1,52 @@
-<!-- Readme Header -->
+<!-- Document Boilerplate -->
 <!-- Used https://rahuldkjain.github.io/gh-profile-readme-generator/ to make the initial template> -->
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    * {
+    box-sizing: border-box;
+    }
+    .icon-column {
+        float: left;
+        width: 40%;
+        padding: 10px;
+    }
+    .stats-column {
+        float: left;
+        width: 60%;
+        padding: 10px;
+    }
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+    /* Stack when screen is too small */
+    @media screen and (max-width: 630px) {
+        .icon-column {
+            width: 100%;
+        }
+        .stats-column {
+            width: 100%;
+        }
+    }
+    </style>
+</head>
+
+
+<!-- Readme Header -->
 <h1 align="center">Hello 👋, I'm Stanley Goodwin</h1>
 <h3 align="center">I'm currently a Physics student at Rochester Institute of Technology with a focus in Computational & Theoretical Physics. I work with physical simulations and lower-level programming like C/C++.</h3>
 
-<div class="row" style="display: flex">
-<div class="column" style="flex: 30%; gap: 25px;">
+<!-- The 2 Rows -->
+<div class="row">
 
+
+
+<!-- Icons Column -->
+<div class="icon-column" style="">
+
+<!-- Social Media & Contact Info -->
 <h3 align="left">
     Connect with me
     <img src="https://komarev.com/ghpvc/?username=sfgoodwiniii&label=Profile%20views&color=0e75b6&style=flat" alt="sfgoodwiniii"/>
@@ -41,7 +82,10 @@
     </a>
 </p>
 
-<h3 align="left">Languages & Tools:</h3>
+<!-- My Current Skills -->
+<h3 align="left">
+    Languages & Tools:
+</h3>
 <p align="left">
     <a href="https://www.python.org" target="blank" rel="noreferrer"><img src="icons/python.svg" alt="python" width="40" height="40"/></a>
     <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"><img src="icons/c.svg" alt="c" width="40" height="40"/></a>
@@ -63,37 +107,27 @@
     <a href="https://www.linux.org/" target="blank" rel="noreferrer"><img src="icons/linux.svg" alt="linux" width="40" height="40"/></a>
     <a href="https://www.rust-lang.org" target="blank" rel="noreferrer"><img src="icons/rust.svg" alt="rust" width="40" height="40"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="icons/bash.svg" alt="bash" width="40" height="40"/></a>
-</p><br>
+</p>
 
 </div>
-    <div class="column" style="flex: 70%">
-        <p align="right">
-            <a href="https://github.com/sfgoodwiniii" target="blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sfgoodwiniii&show_icons=true&locale=en" alt="sfgoodwiniii" />
-        </p>
-        <p align="right">
-            <a href="https://github.com/sfgoodwiniii" target="blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgoodwiniii&show_icons=true&locale=en&layout=compact" alt="sfgoodwiniii" />
-        </p>
-    </div>
+
+
+
+<!-- Stats Column -->
+<div class="stats-column" style="" align="right">
+
+<!-- GitHub Statistics -->
+<p>
+    <a href="https://github.com/sfgoodwiniii" target="blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sfgoodwiniii&show_icons=true&locale=en" alt="sfgoodwiniii" />
+</p>
+
+<!-- Language Statistics -->
+<p>
+    <a href="https://github.com/sfgoodwiniii" target="blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgoodwiniii&show_icons=true&locale=en&layout=compact" alt="sfgoodwiniii" />
+</p>
+
 </div>
 
 
 
-
-
-<!-- Social Media & Contact Info -->
-
-
-
-
-
-
-<!-- My Current Skills -->
-
-
-
-
-
-
-
-
-<!-- Github Statistics -->
+</div>
