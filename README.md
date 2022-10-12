@@ -68,13 +68,12 @@
     <a href="https://www.linux.org/" target="blank" rel="noreferrer"><img src="icons/linux.svg" alt="linux" width="40" height="40"/></a>
     <a href="https://www.rust-lang.org" target="blank" rel="noreferrer"><img src="icons/rust.svg" alt="rust" width="40" height="40"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="icons/bash.svg" alt="bash" width="40" height="40"/></a>
-</p>
+</p><br>
 
 
 
 <!-- Github Statistics -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgoodwiniii&show_icons=true&locale=en&layout=compact" alt="sfgoodwiniii" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sfgoodwiniii&show_icons=true&locale=en" alt="sfgoodwiniii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sfgoodwiniii&" alt="sfgoodwiniii" /></p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgoodwiniii&show_icons=true&locale=en&layout=compact" alt="sfgoodwiniii" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sfgoodwiniii&show_icons=true&locale=en" alt="sfgoodwiniii" />
+</p>
