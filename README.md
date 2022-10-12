@@ -75,8 +75,7 @@
     <a href="https://www.java.com" target="blank" rel="noreferrer"><img src="icons/java.svg" alt="java" width="40" height="40"/></a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="blank" rel="noreferrer"><img src="icons/csharp.svg" alt="csharp" width="40" height="40"/></a>
     <a href="https://www.linux.org/" target="blank" rel="noreferrer"><img src="icons/linux.svg" alt="linux" width="40" height="40"/></a>
-    <a href="https://www.rust-lang.org" target="blank" rel="noreferrer"><img src="icons/rust.svg" alt="rust" width="40" height="40"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="icons/bash.svg" alt="bash" width="40" height="40"/></a>
+
 </p>
 
 </div>
