@@ -12,32 +12,32 @@
 
 <p align="left">
     <!-- Gmail / Email -->
-    <a href="mailto:sfg99709aktech@gmail.com" target="blank">
-        <img align="center" src="media/gmail.svg" alt="Email" height="25" width="40" />
+    <a href="mailto:sfg99709aktech@gmail.com">
+        <img align="center" src="media/gmail.svg" alt="Email" height="25" width="40"/>
     </a>
     <!-- Twitter -->
     <a href="https://twitter.com/sfgoodwiniii" target="blank">
-        <img align="center" src="media/twitter.svg" alt="Twitter" height="30" width="40" />
+        <img align="center" src="media/twitter.svg" alt="Twitter" height="30" width="40"/>
     </a>
     <!-- Linked In -->
     <a href="https://linkedin.com/in/sfgoodwiniii" target="blank">
-        <img align="center" src="media/linkedin.svg" alt="Linked In" height="30" width="40" />
+        <img align="center" src="media/linkedin.svg" alt="Linked In" height="30" width="40"/>
     </a>
     <!-- Stack Overflow -->
     <a href="https://stackoverflow.com/users/20218329" target="blank">
-        <img align="center" src="media/stackoverflow.svg" alt="Stack Overflow" height="30" width="40" />
+        <img align="center" src="media/stackoverflow.svg" alt="Stack Overflow" height="30" width="40"/>
     </a>
     <!-- Facebook -->
     <a href="https://fb.com/sfgoodwiniii" target="blank">
-        <img align="center" src="media/facebook.svg" alt="Facebook" height="30" width="40" />
+        <img align="center" src="media/facebook.svg" alt="Facebook" height="30" width="40"/>
     </a>
     <!-- Instagram -->
     <a href="https://instagram.com/sfgoodwiniii" target="blank">
-        <img align="center" src="media/instagram.svg" alt="Instagram" height="30" width="40" />
+        <img align="center" src="media/instagram.svg" alt="Instagram" height="30" width="40"/>
     </a>
     <!-- GitHub -->
     <a href="https://github.com/sfgoodwiniii" target="blank">
-        <img align="center" src="media/github.png" alt="Instagram" height="35" width="35" />
+        <img align="center" src="media/github.png" alt="Instagram" height="35" width="35"/>
     </a>
 </p>
 
