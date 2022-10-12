@@ -1,7 +1,7 @@
 <!-- Readme Header -->
 <!-- Used https://rahuldkjain.github.io/gh-profile-readme-generator/ to make the initial template> -->
 <h1 align="center">Hello 👋, I'm Stanley Goodwin</h1>
-<h3 align="center">I'm currently a Physics student at Rochester Institute of Technology with a focus in Computational & Theoretical Physics. I work with physical simulations and lower-level programming like C/C++, as well as study mathematics in my free time.</h3>
+<h3 align="center">I'm currently a Physics student at Rochester Institute of Technology with a focus in Computational & Theoretical Physics. I work with physical simulations and lower-level programming like C/C++.</h3>
 
 
 <!-- Social Media & Contact Info -->
