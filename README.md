@@ -2,7 +2,6 @@
 <!-- Used https://rahuldkjain.github.io/gh-profile-readme-generator/ to make the initial template> -->
 <h1 align="center">Hello 👋, I'm Stanley Goodwin</h1>
 <h3 align="center">I'm currently a Physics student at Rochester Institute of Technology with a focus in Computational & Theoretical Physics. I work with physical simulations and lower-level programming like C/C++, as well as study mathematics in my free time.</h3>
-<br>
 
 
 <!-- Social Media & Contact Info -->
@@ -40,7 +39,7 @@
     <a href="https://github.com/sfgoodwiniii" target="blank">
         <img align="center" src="media/github.png" alt="Instagram" height="35" width="35" />
     </a>
-</p><br>
+</p>
 
 
 
@@ -69,7 +68,7 @@
     <a href="https://www.linux.org/" target="blank" rel="noreferrer"><img src="icons/linux.svg" alt="linux" width="40" height="40"/></a>
     <a href="https://www.rust-lang.org" target="blank" rel="noreferrer"><img src="icons/rust.svg" alt="rust" width="40" height="40"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="icons/bash.svg" alt="bash" width="40" height="40"/></a>
-</p><br>
+</p>
 
 
 
