@@ -10,7 +10,7 @@
     <a href="mailto:sfg99709aktech@gmail.com" target="_blank">
     <img align="center" src="media/gmail.svg" alt="Email" height="25" width="40"/></a>
     <!------>
-    <a href="https://twitter.com/sfgoodwiniii" target="blank">
+    <a href="https://twitter.com/sfgoodwiniii" target="_blank">
     <img align="center" src="media/twitter.svg" alt="Twitter" height="30" width="40"/></a>
     <!------>
     <a href="https://linkedin.com/in/sfgoodwiniii" target="blank">
