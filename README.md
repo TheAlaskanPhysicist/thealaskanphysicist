@@ -1,7 +1,6 @@
 <!-- README Header -->
 <h1 align="center" id="title">Hello 👋, I'm Stanley Goodwin</h1>
 <h3 align="center" id="subtitle">I'm currently a Physics student at Rochester Institute of Technology with a focus in Computational & Theoretical Physics. I work with physical simulations and lower-level programming like C/C++.</h3>
-<br>
 
 
 <!-- Social Media & Contact Info -->
@@ -30,7 +29,6 @@
     <img align="center" src="media/github.png" alt="Instagram" height="32" width="32"/></a>
     <!------>
 </p>
-<br>
 
 
 <!-- Programming Languages -->
@@ -65,7 +63,6 @@
     <img src="icons/typescript.svg" alt="typescript" width="40" height="40"/></a>
     <!------>
 </p>
-<br>
 
 
 <!-- Markup Languages -->
@@ -79,7 +76,6 @@
     <img src="icons/css3.svg" alt="css3" width="40" height="40"/></a>
     <!------>
 </p>
-<br>
 
 
 <!-- Tools -->
@@ -90,7 +86,6 @@
     <img src="icons/git.svg" alt="git" width="40" height="40"/></a>
     <!------>
 </p>
-<br>
 
 
 
