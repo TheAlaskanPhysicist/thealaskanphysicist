@@ -12,7 +12,7 @@
 
 <p align="left">
     <!-- Gmail / Email -->
-    <a href="mailto:sfg99709aktech@gmail.com">
+    <a href="mailto:sfg99709aktech@gmail.com" target="blank">
         <img align="center" src="media/gmail.svg" alt="Email" height="25" width="40"/>
     </a>
     <!-- Twitter -->
