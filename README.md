@@ -7,7 +7,8 @@
 <h3 align="center" id="contact-info">Connect with me</h3>
 <p align="center">
     <!------>
-    <a href="mailto:sfg99709aktech@gmail.com" target="blank" style=>
+    <a href="mailto:sfg99709aktech@gmail.com"><img align="center" src="media/gmail.svg" alt="Email" height="25" width="40"/></a></a>
+    <a href="mailto:sfg99709aktech@gmail.com" target="blank">
     <img align="center" src="media/gmail.svg" alt="Email" height="25" width="40"/></a>
     <!------>
     <a href="https://twitter.com/sfgoodwiniii" target="blank">
@@ -86,14 +87,3 @@
     <img src="icons/git.svg" alt="git" width="40" height="40"/></a>
     <!------>
 </p>
-
-
-
-<!-- Profile Statistics -->
-<img src="https://komarev.com/ghpvc/?username=sfgoodwiniii&label=Profile%20views&color=0e75b6&style=flat" alt="sfgoodwiniii"/>
-
-<!-- GitHub Statistics -->
-<p><a href="https://github.com/sfgoodwiniii" target="blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sfgoodwiniii&show_icons=true&locale=en" alt="sfgoodwiniii" /></p>
-
-<!-- Language Statistics -->
-<p><a href="https://github.com/sfgoodwiniii" target="blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgoodwiniii&show_icons=true&locale=en&layout=compact" alt="sfgoodwiniii" /></p>
