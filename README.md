@@ -21,7 +21,7 @@
         display: table;
         clear: both;
     }
-    /* Stack when screen is too small */
+    /* Stack when screen is too small
     @media screen and (max-width: 630px) {
         .icon-column {
             width: 100%;
@@ -29,7 +29,7 @@
         .stats-column {
             width: 100%;
         }
-    }
+    } */
     </style>
 </head>
 
