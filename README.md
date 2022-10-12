@@ -1,37 +1,7 @@
 <!-- Document Boilerplate -->
 <!-- Used https://rahuldkjain.github.io/gh-profile-readme-generator/ to make the initial template> -->
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-    * {
-    box-sizing: border-box;
-    }
-    .icon-column {
-        float: left;
-        width: 40%;
-        padding: 10px;
-    }
-    .stats-column {
-        float: left;
-        width: 60%;
-        padding: 10px;
-    }
-    .row:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-    /* Stack when screen is too small
-    @media screen and (max-width: 630px) {
-        .icon-column {
-            width: 100%;
-        }
-        .stats-column {
-            width: 100%;
-        }
-    } */
-    </style>
-</head>
+<head><meta name="viewport" content="width=device-width, initial-scale=1"></head>
+
 
 
 <!-- Readme Header -->
@@ -39,12 +9,12 @@
 <h3 align="center">I'm currently a Physics student at Rochester Institute of Technology with a focus in Computational & Theoretical Physics. I work with physical simulations and lower-level programming like C/C++.</h3>
 
 <!-- The 2 Rows -->
-<div class="row">
+<div class="row" style="">
 
 
 
 <!-- Icons Column -->
-<div class="icon-column" style="">
+<div class="icon-column" style="float: left; width: 40%; padding: 10px; box-sizing: border-box;">
 
 <!-- Social Media & Contact Info -->
 <h3 align="left">
@@ -114,7 +84,7 @@
 
 
 <!-- Stats Column -->
-<div class="stats-column" style="" align="right">
+<div class="stats-column" style="float: right; width: 60%; padding: 10px; box-sizing: border-box;" align="right">
 
 <!-- GitHub Statistics -->
 <p>
