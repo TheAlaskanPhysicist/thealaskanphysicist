@@ -3,16 +3,16 @@
 <h1 align="center">Hello 👋, I'm Stanley Goodwin</h1>
 <h3 align="center">I'm currently a Physics student at Rochester Institute of Technology with a focus in Computational & Theoretical Physics. I work with physical simulations and lower-level programming like C/C++, as well as study mathematics in my free time.</h3>
 
+<div class="row" style="display: flex">
+<div class="column" style="flex: 30%; gap: 25px;">
 
-<!-- Social Media & Contact Info -->
 <h3 align="left">
     Connect with me
-    <img src="https://komarev.com/ghpvc/?username=sfgoodwiniii&label=Profile%20views&color=0e75b6&style=flat" alt="sfgoodwiniii" />
+    <img src="https://komarev.com/ghpvc/?username=sfgoodwiniii&label=Profile%20views&color=0e75b6&style=flat" alt="sfgoodwiniii"/>
 </h3>
-
 <p align="left">
     <!-- Gmail / Email -->
-    <a href="mailto:sfg99709aktech@gmail.com" target="blank">
+    <a href="mailto:sfg99709aktech@gmail.com" target="blank" style=>
         <img align="center" src="media/gmail.svg" alt="Email" height="25" width="40"/>
     </a>
     <!-- Twitter -->
@@ -37,13 +37,10 @@
     </a>
     <!-- GitHub -->
     <a href="https://github.com/sfgoodwiniii" target="blank">
-        <img align="center" src="media/github.png" alt="Instagram" height="35" width="35"/>
+        <img align="center" src="media/github.png" alt="Instagram" height="32" width="32"/>
     </a>
 </p>
 
-
-
-<!-- My Current Skills -->
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="blank" rel="noreferrer"><img src="icons/python.svg" alt="python" width="40" height="40"/></a>
@@ -53,8 +50,6 @@
     <a href="https://fortran-lang.org/en/" target="blank" rel="noreferrer"><img src="icons/fortran.svg" alt="fortran" width="40" height="40"/></a>
     <a href="https://git-scm.com/" target="blank" rel="noreferrer"><img src="icons/git.svg" alt="git" width="40" height="40"/></a>
 </p>
-
-
 
 <!-- Language Development -->
 <h3 align="left">In Development:</h3>
@@ -70,12 +65,35 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="icons/bash.svg" alt="bash" width="40" height="40"/></a>
 </p><br>
 
+</div>
+    <div class="column" style="flex: 70%">
+        <p align="right">
+            <a href="https://github.com/sfgoodwiniii" target="blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sfgoodwiniii&show_icons=true&locale=en" alt="sfgoodwiniii" />
+        </p>
+        <p align="right">
+            <a href="https://github.com/sfgoodwiniii" target="blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgoodwiniii&show_icons=true&locale=en&layout=compact" alt="sfgoodwiniii" />
+        </p>
+    </div>
+</div>
+
+
+
+
+
+<!-- Social Media & Contact Info -->
+
+
+
+
+
+
+<!-- My Current Skills -->
+
+
+
+
+
+
 
 
 <!-- Github Statistics -->
-<p>
-    <a href="https://github.com/sfgoodwiniii" target="blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sfgoodwiniii&show_icons=true&locale=en" alt="sfgoodwiniii" />
-</p>
-<p>
-    <a href="https://github.com/sfgoodwiniii" target="blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgoodwiniii&show_icons=true&locale=en&layout=compact" alt="sfgoodwiniii" />
-</p>
