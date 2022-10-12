@@ -74,6 +74,8 @@
 
 <!-- Github Statistics -->
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgoodwiniii&show_icons=true&locale=en&layout=compact" alt="sfgoodwiniii" />
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sfgoodwiniii&show_icons=true&locale=en" alt="sfgoodwiniii" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sfgoodwiniii&show_icons=true&locale=en" alt="sfgoodwiniii" />
+</p>
+<p>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgoodwiniii&show_icons=true&locale=en&layout=compact" alt="sfgoodwiniii" />
 </p>
