@@ -1,0 +1,80 @@
+{
+    "personal": {
+        "full-name": "Stanley F. Goodwin",
+        "preferred-name": "Stanley Goodwin",
+        "pronouns": "He/Him",
+        "max"
+    },
+    "education": [
+        {
+            "university": "Rochester Institute of Technology",
+            "university-url": "https://www.rit.edu/",
+            "college": "College of Science",
+            "college-url": "https://www.rit.edu/science/",
+            "school": "School of Physical Sciences",
+            "school-url": "",
+
+            "address": "1 Lomb Memorial Drive",
+            "city": "Rochester",
+            "state": "NY",
+            "zip": 14623,
+
+            "display-gpa": true,
+            "gpa-last": 3.91,
+            "gpa-max": 4.00,
+
+            "major": ["Physics B.S."],
+            "minor": ["Mathematics", "Quantum Technology"],
+            "comment": "",
+            "start-date": "Aug 2021",
+            "end-date:": "Present"
+        },
+        {
+            "university": "University of Alaska Fairbanks",
+            "university-url": "https://www.uaf.edu/uaf/",
+            "college": "College of Natural Science and Mathematics",
+            "college-url": "https://www.uaf.edu/cnsm/",
+            "school": "Department of Physics",
+            "school-url": "https://www.uaf.edu/physics/",
+
+            "address": "505 S Chandalar",
+            "city": "Fairbanks",
+            "state": "AK",
+            "zip": 99775,
+
+            "display-gpa": false,
+            "gpa-last": "UNKNOWN",
+            "gpa-max": 4.00,
+
+            "major": [],
+            "minor": [],
+            "start-date": "May 2020",
+            "end-date:": "May 2021",
+            "comment": "Dual-Enrollment with High School."
+        }
+    ]
+}
+
+
+
+
+
+
+\def \cvMaxTitle {B.S.}
+
+\def \cvCurrentSchool {}
+\def \cvCurrentCollege {}
+\def \cvCurrentUniversity {}
+
+\def \cvPhoneNumber {19079875732}
+\def \cvPhoneNumberDisplay {(907) 987-5732}
+\def \cvWorkEmail {sfg99709akwork@gmail.com}
+\def \cvSchoolEmail {sfg5318@rit.edu}
+\def \cvPermanentAddress {1235 Pickering Drive}
+\def \cvPermanentLocation {Fairbanks, Alaska 99709}
+\def \cvCurrentAddress {608 Park Point Drive, Unit 9}
+\def \cvCurrentLocation {Rochester, NY 14623}
+
+\def \cvWebsite {sfgoodwiniii.github.io}
+\def \cvLinkedin {linkedin.com/in/sfgoodwiniii}
+
