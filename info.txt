@@ -1,0 +1,28 @@
+contact:
+
+
+
+languages:
+R (Statistics)
+PowerShell
+Windows CMD
+Linux Bash
+
+
+
+markup:
+JSON
+LaTeX
+Markdown
+
+
+
+tools:
+Visual Studio Code
+Visual Studio
+Eclipse
+IntelliJ
+PyCharm
+Nano
+SSH
+GitHub

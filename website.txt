@@ -1,0 +1,24 @@
+https://sfgoodwiniii.github.io/contact-me
+https://sfgoodwiniii.github.io/projects/
+/index
+
+
+/resume
+	Title: Resumes
+	Tiles
+	Curriculum Vitae
+	Tiles
+
+/travel
+	All the places I've travelled to.
+
+
+
+Change Website Links to GitHub List Links to projects using that language
+
+
+
+
+https://github.com/codecrafters-io/build-your-own-x
+https://youtube.com/shorts/AvBs-2xCCuQ?feature=share
+https://musescore.com/user/23822/scores/137371
