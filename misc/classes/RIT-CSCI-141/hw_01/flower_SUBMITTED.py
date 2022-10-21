@@ -1,0 +1,85 @@
+import turtle as tt
+
+
+
+"""
+STANLEY GOODWIN (1/10/2021)
+CSCI 141, 10:00am - 12:00pm
+
+Description:
+    Program executes as own console. No return type.
+        Meant as standalone project. Not for importation to other files without caution.
+    Creates new window under turtle.
+    Turtle draws 6-figure snowflake as assignment entails.
+
+Known issues:
+    Turtle definition is not contained to class. All other programs that
+        modify the import turtle will be executed on the main screen.
+"""
+
+
+
+# Function to draw petal
+def draw_petal() -> None:
+    """
+    draw_petal() runs through 1 rhombus as defined by the lower parameter constants.
+    Function moves the turtle to draw a rhombus, returns none.
+    Returns turtle pointer to origin after each usage.
+    """
+
+    # Constants
+    _LINE_LENGTH = 50   # [ UNITS: PIXELS  ] The length (in pixels) of the side of the rhombus
+    _ANGLE_INNER = 40   # [ UNITS: DEGREES ] The interior angle of the rhombus 
+    _ANGLE_OUTER = 140  # [ UNITS: DEGREES ] The exterior angle of the rhombus
+    _NEXT_ANGLE  = 60   # [ UNITS: DEGREES ] The angle between the centers of the rhombuses
+
+    # Movement routine of turtle
+    tt.forward(_LINE_LENGTH)
+    tt.left(_ANGLE_INNER)
+    tt.forward(_LINE_LENGTH)
+    tt.left(_ANGLE_OUTER)
+    tt.forward(_LINE_LENGTH)
+    tt.left(_ANGLE_INNER)
+    tt.forward(_LINE_LENGTH)
+    tt.left(_ANGLE_OUTER)
+
+    # Angle Offset for next petal
+    tt.left(_NEXT_ANGLE)
+
+
+
+# Loop stand-in
+def draw_flower() -> None:
+    """
+    draw_flower() draws the 6 petals required for the assignment.
+    Function replaces the need for a for-loop executing 6 times.
+    """
+
+    # Movement routine for the petals
+    draw_petal()
+    draw_petal()
+    draw_petal()
+    draw_petal()
+    draw_petal()
+    draw_petal()
+
+
+
+# The startup program
+def main() -> None:
+
+    # Title of the application
+    _TITLE = "6-figure Snowflake"
+    tt.title(_TITLE)
+
+    # Runs the draw function for creating the flower
+    draw_flower()
+
+    # Awaits input from user on close (prevents auto-close)
+    tt.done()
+
+
+
+# Guard
+if __name__ == "__main__":
+    main()

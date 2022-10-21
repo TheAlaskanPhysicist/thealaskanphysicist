@@ -1,0 +1,5 @@
+Dentist 140
+GroceryStore 250
+Pharmacy 150
+HairSalon 140
+Bank 50

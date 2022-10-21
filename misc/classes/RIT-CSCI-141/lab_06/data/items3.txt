@@ -1,0 +1,10 @@
+17 17 17
+Axe 2
+Bells 3
+Cookware 14
+Doorknob 2
+Earphones 3
+Faucet 12
+Gum 2
+Hammers 7
+Icepicks 6

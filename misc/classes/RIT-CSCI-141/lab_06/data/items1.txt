@@ -1,0 +1,9 @@
+12 12 12
+Abacus 3
+Blender 5
+Chessboard 3
+Dishes 6
+Engraving 9
+Flowerpot 3
+Guitar 3
+Helmet 4
