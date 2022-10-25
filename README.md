@@ -7,7 +7,7 @@
 <h3 align="center" id="contact-info">Connect with me</h3>
 <p align="center">
     <!------>
-    <a href="mailto:sfg99709aktech@gmail.com" target="blank">
+    <a href="mailto:sfg99709aktech+github@gmail.com" target="blank">
     <img align="center" src="media/gmail.svg" alt="Email" height="25" width="40"/></a>
     <!------>
     <a href="https://twitter.com/sfgoodwiniii" target="blank">
