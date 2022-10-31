@@ -1,5 +1,0 @@
-Offices 70
-MedicalOffice 120
-DummyOffice 180
-PostOffice 170
-Mall 200
