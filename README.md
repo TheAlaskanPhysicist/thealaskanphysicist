@@ -39,13 +39,13 @@
 <p align="center">
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="programming/python.svg" alt="python" width="40" height="40"/></a>
+    <img src="custom/python.svg" alt="python" width="40" height="40"/></a>
     <!------>
     <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer">
-    <img src="programming/c.svg" alt="c" width="40" height="40"/></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="36" height="40"/></a>
     <!------>
     <a href="https://isocpp.org/" target="blank" rel="noreferrer">
-    <img src="programming/cpp.svg" alt="c plus plus" width="40" height="40"/></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="c plus plus" width="36" height="40"/></a>
     <!------>
     <!-- <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="blank" rel="noreferrer">
     <img src="programming/csharp.svg" alt="csharp" width="40" height="40"/></a> -->
@@ -112,12 +112,6 @@
     <a href="https://www.jetbrains.com/idea/" target="blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intelli-j" width="40" height="40"/></a>
     <!------>
-    <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="linux bash" width="40" height="40"/></a>
-    <!------>
-    <a href="https://learn.microsoft.com/en-us/powershell/" target="blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-us/powershell/media/index/powershell_128.svg" alt="powershell" width="40" height="40"/></a>
-    <!------>
     <a href="https://git-scm.com/" target="blank" rel="noreferrer">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="40" height="40"/></a>
     <!------>
@@ -132,7 +126,7 @@
 <p align="center">
     <!------>
     <a href="https://numpy.org/doc/" target="blank" rel="noreferrer">
-    <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/></a>
+    <img src="https://numpy.org/images/logo.svg" alt="numpy" width="43" height="42"/></a>
     <!------>
     <a href="https://matplotlib.org/stable/index.html" target="blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="math plot lib" width="40" height="40"/></a>
