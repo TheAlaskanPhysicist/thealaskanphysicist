@@ -3,7 +3,7 @@
 <hr>
 
 <!-- Programming Languages -->
-<h2 align="center" id="languages">Programming Languages</h2>
+<h2 align="center" id="languages" style="border-bottom: none">Programming Languages</h2>
 <p align="center">
     <img src="icons/python.svg" alt="Python" width="40" height="40"/>
     <img src="icons/c.svg" alt="C" width="40" height="40"/>
@@ -18,7 +18,7 @@
 </p>
 
 <!-- Libraries -->
-<h2 align="center" id="libraries">Libraries</h2>
+<h2 align="center" id="libraries" style="border-bottom: none">Libraries</h2>
 <p align="center">
     <img src="libs/numpy.svg" alt="Numpy" width="40" height="40"/>
     <img src="libs/matplotlib.svg" alt="MatPlotLib" width="40" height="40"/>
@@ -27,7 +27,7 @@
 </p>
 
 <!-- Tools -->
-<h2 align="center" id="tools">Programming Tools</h2>
+<h2 align="center" id="tools" style="border-bottom: none">Programming Tools</h2>
 <p align="center">
     <img src="tools/vscode.svg" alt="Visual Studio Code" width="40" height="40"/>
     <img src="tools/vs.svg" alt="Visual Studio" width="40" height="40"/>
@@ -39,7 +39,7 @@
 </p>
 
 <!-- Markup Languages -->
-<h2 align="center" id="markup">Markup Languages</h2>
+<h2 align="center" id="markup" style="border-bottom: none">Markup Languages</h2>
 <p align="center">
     <img src="icons/html5.svg" alt="HTML5" width="40" height="40"/>
     <img src="icons/css3.svg" alt="CSS3" width="40" height="40"/>
