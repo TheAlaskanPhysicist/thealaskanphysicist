@@ -1,6 +1,9 @@
 <!-- README Header -->
 <h1 align="center">Hello👋 I'm Stanley!</h1>
 
+<!-- About Me Style -->
+<style> img { pointer-events: none; } </style>
+
 <!-- Programming Languages -->
 <h2 align="center">Programming Languages</h2>
 <p align="center">
