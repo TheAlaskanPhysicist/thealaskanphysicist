@@ -17,8 +17,8 @@
 </p>
 <p align="center">
     <img src="icons/numpy.svg" alt="Numpy" width="40" height="40"/>
-    <img src="icons/matplotlib.svg" alt="MatPlotLib" width="40" height="40"/>
     <img src="icons/scipy.svg" alt="SciPy" width="40" height="40"/>
+    <img src="icons/matplotlib.svg" alt="MatPlotLib" width="40" height="40"/>
 <!--     <img src="icons/sfml.svg" alt="SFML" width="40" height="40"/> -->
 <!--     <img src="icons/manim.svg" alt="Manimation" width="40" height="40"/> -->
 </p>
