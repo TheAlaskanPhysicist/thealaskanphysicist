@@ -55,14 +55,14 @@
     <a href="mailto:contact@staniel.dev">
         <img src="https://img.shields.io/badge/Email-contact@thealaskanphysicist.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/StanielDevito" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-StanielDevito-3094FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <a href="https://linkedin.com/in/thealaskanphysicist" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-thealaskanphysicist-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/TheAlaskanPhysicist" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-The Alaskan Physicist-3094FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://osf.io/3xptv/" target="_blank">
         <img src="https://img.shields.io/badge/OSF-3xptv-2c70a4?style=for-the-badge&logo=osf&logoColor=white" alt="Open Science Framework"/>
-    </a>
-    <a href="https://linkedin.com/in/thealaskanphysicist" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-thealaskanphysicist-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://orcid.org/0009-0006-3060-0594" target="_blank">
         <img src="https://img.shields.io/badge/ORCID-0009 &#x2010 0006 &#x2010 3060 &#x2010 0594-0c8c44?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
