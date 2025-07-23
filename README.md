@@ -51,31 +51,31 @@
 <p align="left">
     <a href="https://thealaskanphysicist.com" target="_blank">
         <img src="https://img.shields.io/badge/Website-thealaskanphysicist.com-6600cc?style=for-the-badge" alt="Website"/>
-    </a><br>
+    </a>
     <a href="mailto:contact@staniel.dev">
         <img src="https://img.shields.io/badge/Email-contact@thealaskanphysicist.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a><br>
+    </a>
     <a href="https://github.com/StanielDevito" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-StanielDevito-3094FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://osf.io/3xptv/" target="_blank">
         <img src="https://img.shields.io/badge/OSF-3xptv-2c70a4?style=for-the-badge&logo=osf&logoColor=white" alt="Open Science Framework"/>
-    </a><br>
+    </a>
     <a href="https://linkedin.com/in/thealaskanphysicist" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-thealaskanphysicist-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a><br>
+    </a>
     <a href="https://orcid.org/0009-0006-3060-0594" target="_blank">
         <img src="https://img.shields.io/badge/ORCID-0009 &#x2010 0006 &#x2010 3060 &#x2010 0594-0c8c44?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-    </a><br>
+    </a>
     <a href="https://youtube.com/@TheAlaskanPhysicist" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-%40TheAlaskanPhysicist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-    </a><br>
+    </a>
     <a href="https://www.twitch.tv/thealaskanphysicist" target="_blank">
         <img src="https://img.shields.io/badge/Twitch-%40TheAlaskanPhysicist-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-    </a><br>
+    </a>
     <a href="https://thealaskanphysicist.itch.io/" target="_blank">
         <img src="https://img.shields.io/badge/Itch.io-The Alaskan Physicist-f05b5b?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
-    </a><br>
+    </a>
 </p>
 
 <!-- Online Presence (ALT) -->
