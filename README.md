@@ -47,7 +47,7 @@
 </p>
 
 <!-- Online Presence -->
-<h2 align="center">Find Me Online</h2>
+<!-- <h2 align="center">Find Me Online</h2>
 <p align="left">
     <a href="https://thealaskanphysicist.com" target="_blank">
         <img src="https://img.shields.io/badge/Website-thealaskanphysicist.com-6600cc?style=for-the-badge" alt="Website"/>
@@ -76,7 +76,7 @@
     <a href="https://thealaskanphysicist.itch.io/" target="_blank">
         <img src="https://img.shields.io/badge/Itch.io-The Alaskan Physicist-f05b5b?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
     </a>
-</p>
+</p> -->
 
 <!-- Online Presence (ALT) -->
 <!-- <h2 align="center">Find Me Online</h2>
