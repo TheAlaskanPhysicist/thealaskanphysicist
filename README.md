@@ -47,15 +47,15 @@
 </p>
 
 <!-- Online Presence -->
-<!-- <h2 align="center">Find Me Online</h2>
-<p align="left">
+<h2 align="center">Find Me Online</h2>
+<p align="center">
     <a href="https://thealaskanphysicist.com" target="_blank">
         <img src="https://img.shields.io/badge/Website-thealaskanphysicist.com-6600cc?style=for-the-badge" alt="Website"/>
     </a>
     <a href="mailto:contact@staniel.dev">
         <img src="https://img.shields.io/badge/Email-contact@thealaskanphysicist.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://linkedin.com/in/thealaskanphysicist" target="_blank">
+    <!-- <a href="https://linkedin.com/in/thealaskanphysicist" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-thealaskanphysicist-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/TheAlaskanPhysicist" target="_blank">
@@ -75,8 +75,8 @@
     </a>
     <a href="https://thealaskanphysicist.itch.io/" target="_blank">
         <img src="https://img.shields.io/badge/Itch.io-The Alaskan Physicist-f05b5b?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
-    </a>
-</p> -->
+    </a> -->
+</p>
 
 <!-- Online Presence (ALT) -->
 <!-- <h2 align="center">Find Me Online</h2>
