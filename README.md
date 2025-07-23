@@ -15,7 +15,7 @@
 <p align="center">
     <img src="icons/numpy.svg" alt="NumPy" width="40" height="40"/>
     <img src="icons/scipy.svg" alt="SciPy" width="40" height="40"/>
-    <img src="icons/qiskit.svg" alt="Qiskit" width="40" height="40" style="filter: invert(100%);" />
+    <img src="icons/qiskit.png" alt="Qiskit" width="40" height="40"/>
     <img src="icons/matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
     <img src="icons/manim.svg" alt="Manimation" width="40" height="40"/>
 </p>
@@ -35,7 +35,7 @@
     <img src="icons/git.svg" alt="Git" width="40" height="40"/>
     <img src="icons/github.svg" alt="GitHub" width="40" height="40"/>
     <img src="icons/powershell.svg" alt="PowerShell" width="40" height="40"/>
-    <img src="icons/bash.svg" alt="Bash" width="40" height="40" style="filter: invert(100%);" />
+    <img src="icons/bash.png" alt="Bash" width="40" height="40"/>
     <img src="icons/cmake.svg" alt="Cmake" width="40" height="40"/>
     <img src="icons/vs.svg" alt="Visual Studio" width="40" height="40"/>
     <img src="icons/vscode.svg" alt="Visual Studio Code" width="40" height="40"/>
@@ -53,7 +53,7 @@
         <img src="https://img.shields.io/badge/Website-thealaskanphysicist.com-6600cc?style=for-the-badge" alt="Website"/>
     </a>
     <a href="mailto:contact@staniel.dev">
-        <img src="https://img.shields.io/badge/Email-contact@thealaskanphysicist.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://img.shields.io/badge/Email-contact@thealaskanphysicist.com-D14836?style=for-the-badge&logoColor=white" alt="Email"/>
     </a>
     <!-- <a href="https://linkedin.com/in/thealaskanphysicist" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-thealaskanphysicist-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
